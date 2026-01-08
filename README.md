@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection - BFSI Domain
-📘 [View Notebook (Fast Web View)](https://nbviewer.org/github/navyansh1/ML_Fraud_Detection_BFSI/blob/main/BFSI%20transactionFraud%20analysis.ipynb)
+📘 [View Notebook (Fast Web View)](https://navyansh1.github.io/ML_Fraud_Detection_BFSI/)
 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -204,4 +204,5 @@ BFSI/
 4. **Continuous Learning**: Retrain with new fraud patterns
 5. **Explainability**: SHAP values for individual predictions
 6. **Cost-sensitive Learning**: Assign different costs to errors
+
 
